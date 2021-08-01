@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PaintPenText</string>
+    <string name="paint_pen">画笔</string>
+    <string name="multi_touch">多点触控画笔</string>
+    <string name="multi_point">多点触控</string>
+    <string name="clear_view">清空画布</string>
+</resources>
